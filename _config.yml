@@ -4,8 +4,8 @@ name: Viggo's Art
 name_en: Viggo Mortensen
 
 # url is currently only used for the RSS feed in feed.xml
-url: https://junesirius.github.io/ViggoArt
-baseurl: ""
+url: https://junesirius.github.io
+baseurl: "/ViggoArt"
 
 ## default date_format
 date_format: 
