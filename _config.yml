@@ -25,4 +25,4 @@ gems: ['jekyll-paginate']
 
 exclude: ['README.md', 'LICENSE', "*.bak"]
 
-permalink: /:year/:month/:day/:title
+permalink: /:year/:title
