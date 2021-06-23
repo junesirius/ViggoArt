@@ -1,4 +1,4 @@
-# 文档说明
+# ViggoArt 文档说明
 
 本项目为Viggo Mortensen的[粉丝网站](https://junesirius.github.io/ViggoArt)的源代码，由“[六月的天狼星](https://junesirius.github.io)”搭建、设计、排版、维护。
 
