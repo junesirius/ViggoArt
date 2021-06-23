@@ -6,7 +6,8 @@ tags: Tags
 archive: Archive
 categories: Categories
 characters: Characters
-longnovels: Long Novels
+pictures: "Pictures"
+analysis: "Analysis"
 about: About
 thanks: "Powered by"
 page: Page
@@ -14,4 +15,3 @@ newer_post: Newer Post
 older_post: Older Post
 newer_page: Newer Page
 older_page: Older Page
-longnovel_posts: Top Posts
