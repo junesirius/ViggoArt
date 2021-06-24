@@ -212,7 +212,7 @@
 
 ### [\_drafts](https://github.com/junesirius/ViggoArt/blob/master/_drafts)
 
-本文件夹存储所有不打算发表在个站的草稿文章，文件标题、台头格式等可不遵守`_posts`的格式要求。当git page网站在线编译时会自动忽略本文件夹，但在本地调试时可通过`--drafts`，命令进行编译查看。
+本文件夹存储所有暂未发表在网站的草稿文章，文件标题、台头格式等可不遵守`_posts`的格式要求。当git page网站在线编译时会自动忽略本文件夹，但在本地调试时可通过`--drafts`，命令进行编译查看。
 
 ### [assets](https://github.com/junesirius/ViggoArt/blob/master/assets)
 
