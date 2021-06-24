@@ -32,7 +32,8 @@
   * [categories-detail.md（分类细节）](#categories-detailmd分类细节)
   * [tags.md（标签页）](#tagsmd标签页)
   * [characters.md（人物页）](#charactersmd人物页)
-  * [longnovels.md（长篇小说页）](#longnovelsmd长篇小说页)
+  * [pictures.md（图片页）](#picturesmd图片页)
+  * [analysis.md（统计页）](#analysismd统计页)
   * [archive.md（归档页）](#archivemd归档页)
   * [404.md（报错页）](#404md报错页)
 - [存文相关文件](#存文相关文)
@@ -107,17 +108,18 @@
   - **分类**：跳转至categories.html
   - **标签**：跳转至tags.html
   - **人物**：跳转至characters.html
-  - **长篇**：跳转至longnovels.html
+  - **图片**：跳转至pictures.html
+  - **统计**：跳转至analysis.html
   - **归档**：跳转至archive.html
 
 #### [footer.html](https://github.com/junesirius/ViggoArt/tree/master/_includes/footer.html)
 
-- **版权**：所有者为本站作者（同时标注中文及英文笔名），时间为当前年份。
+- **版权**：所有资源的版权所有者为原作者，时间为当前年份。
 - **致谢**：致谢者信息及链接存储于[\_data/thanks.yml](https://github.com/junesirius/ViggoArt/blob/master/_data/thanks.yml)。
 
 #### [sidebar.html](https://github.com/junesirius/ViggoArt/tree/master/_includes/sidebar.html)
 
-依次显示：头像、个签、最近更新、热门圈子、热门标签、长篇连载
+依次显示：头像、个签、最近更新、热门分类、热门标签
 
 - **头像**：图片与本站图标相同（也可选择不同图片），存储于[favicon.jpg](https://github.com/junesirius/ViggoArt/blob/master/assets/images/favicon.jpg)，显示为圆形。
 - **个签**：文字居中排列，内容存储于[\_data/description.yml](https://github.com/junesirius/ViggoArt/blob/master/_data/description.yml)。
@@ -171,9 +173,13 @@
 
 用于自动生成`characters.html`静态页面，按字母顺序依序排列所有出现过的人物（提取自各文章台头的`characters`信息），在每个人物下按时间顺序从新到旧列举所有出现该人物的文章。点击文章标题可进入文章页。
 
-### [longnovels.md（长篇小说页）](https://github.com/junesirius/ViggoArt/blob/master/longnovels.md)
+### [pictures.md（图片页）](https://github.com/junesirius/ViggoArt/blob/master/pictures.md)
 
-用于自动生成`longnovels.html`静态页面，按字母顺序依序排列所有出现过的长篇小说（提取自各文章台头的`long_novels`信息），在每个长篇小说标题下按时间顺序从新到旧列举所有属于该长篇系列的连载文章。点击文章标题可进入文章页。
+用于自动生成`picutures.html`静态页面，按时间顺序排列所有标签中包含“画”和“摄影”的文章中出现过的图片。点击图片可进入文章页。
+
+### [analysis.md（统计页）](https://github.com/junesirius/ViggoArt/blob/master/analysis.md)
+
+用于自动生成`analysis.html`静态页面，将各个分类、标签、人物按照出现次数从多到少进行排列统计，点击可分别进入分类页、标签页和人物页对应位置。统计总文章数、总字数、访客量和访问量，其中访客量、访问量与[总站](https://junesirius.github.io)下的各个分站合并统计。
 
 ### [archive.md（归档页）](https://github.com/junesirius/ViggoArt/blob/master/archive.md)
 
