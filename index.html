@@ -6,7 +6,7 @@ title: 首页
 {% for post in paginator.posts %}
 <div class="well article">
 
-    <span class="post-date">
+    <span class="post-date" hidden>
         {% assign date_format = site.date_format.title %}
         {{ post.date | date: date_format }}
     </span>
