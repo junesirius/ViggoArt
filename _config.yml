@@ -10,7 +10,7 @@ baseurl: "/ViggoArt"
 ## default date_format
 date_format: 
   title: "%m-%d-%Y"
-  archive: ""
+  archive: "%m"
   categories: "%m-%Y"
   tags: "%m-%Y"
 
