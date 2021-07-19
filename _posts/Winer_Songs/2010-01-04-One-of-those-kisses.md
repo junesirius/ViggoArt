@@ -2,10 +2,10 @@
 layout: post
 title: One of Those Kisses
 date: 2010-01-04
-categories: ["Winter Songs"]
+categories: ["Skovbo", "Winter Songs"]
 characters: 
 tags: ["poem", "Spanish", "English"]
-origin: ["Winter Songs"]
+origin: ["Skovbo"]
 pov: 
 description: 
 published: true
