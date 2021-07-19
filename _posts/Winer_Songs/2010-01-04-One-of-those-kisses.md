@@ -1,6 +1,6 @@
 ---
 layout: post
-title: One of Those Kisses
+title: One of Those Kisses (poem)
 date: 2010-01-04
 categories: ["Skovbo", "Winter Songs"]
 characters: 
