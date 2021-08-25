@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Short sentences in Skovbo
+title: Short sentences in "Skovbo"
 date: 2008-01-11
 categories: ["Skovbo"]
 characters: ["Edgar Allan Poe", "Henry David Thoreau", "Marvel Proust", "Jorge Guillén"]
