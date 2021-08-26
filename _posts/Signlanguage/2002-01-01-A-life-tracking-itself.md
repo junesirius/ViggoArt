@@ -4,7 +4,7 @@ title: Viggo Mortensen: A Life Tracking Itself (article)
 date: 2002-01-01
 categories: ["Sign language"]
 characters: ["Kevin Power", "Viggo Mortensen", "Henry Mortensen", "Robert Creeley"]
-tags: ["English", "article"]
+tags: ["English", "article", "article by others"]
 origin: ["Sign language"]
 pov: ["Kevin Power"]
 description: 

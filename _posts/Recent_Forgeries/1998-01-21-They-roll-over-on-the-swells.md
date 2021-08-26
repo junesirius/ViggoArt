@@ -1,12 +1,28 @@
 ---
 layout: post
-title: 
-date: 1998-01-
+title: They roll over on the swells (poem)
+date: 1998-01-21
 categories: ["Recent Forgeries"]
 characters: 
-tags: 
+tags: ["English", "poem", "no title"]
 origin: ["Recent Forgeries"]
 pov: 
 description: 
 published: true
 ---
+
+They roll over on the swells
+
+and forget themselves,
+
+floating on a sea littered
+
+with broken oars and scraps
+
+of sails. They'll hang on chains
+
+around teenage necks, long after
+
+sinking, piece by piece, away from
+
+the moon.
