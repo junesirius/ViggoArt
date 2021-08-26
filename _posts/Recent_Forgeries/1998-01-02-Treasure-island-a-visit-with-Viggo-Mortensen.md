@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Treasure Island&#120; A Visit with Viggo Mortensen (article)
+title: Treasure Island&#58; A Visit with Viggo Mortensen (article)
 date: 1998-01-02
 categories: ["Recent Forgeries"]
 characters: ["Kristine McKenna"]

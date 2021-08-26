@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Viggo Mortensen&#120; A Life Tracking Itself (article)
+title: Viggo Mortensen&#58; A Life Tracking Itself (article)
 date: 2002-01-01
 categories: ["Sign language"]
 characters: ["Kevin Power", "Viggo Mortensen", "Henry Mortensen", "Robert Creeley"]
