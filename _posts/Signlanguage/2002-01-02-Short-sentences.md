@@ -4,7 +4,7 @@ title: Short sentences in "Sign Language"
 date: 2002-01-02
 categories: ["Sign language"]
 characters: ["Joseph Campbell"]
-tags: ["English", "extract"]
+tags: ["English", "extract", "sentences"]
 origin: ["Sign language"]
 pov: 
 description: 

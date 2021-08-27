@@ -4,7 +4,7 @@ title: Short sentences in "Skovbo"
 date: 2008-01-11
 categories: ["Skovbo"]
 characters: ["Edgar Allan Poe", "Henry David Thoreau", "Marvel Proust", "Jorge Guillén"]
-tags: ["English", "Spanish", "translation", "extract"]
+tags: ["English", "Spanish", "translation", "extract", "sentences"]
 origin: ["Skovbo"]
 pov: 
 description: 

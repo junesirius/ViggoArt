@@ -4,7 +4,7 @@ title: Short sentences in "Recent Forgeries"
 date: 1998-02-07
 categories: ["Recent Forgeries"]
 characters: 
-tags: ["English"]
+tags: ["English", "sentences"]
 origin: ["Recent Forgeries"]
 pov: 
 description: 
