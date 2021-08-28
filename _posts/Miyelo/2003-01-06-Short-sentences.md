@@ -67,3 +67,46 @@ All this was a severe ordeal for one who had so lately put all his faith in the 
 
 <br>
 
+Discovery gave an exclusive right to extinguish the Indian right of occupancy, either by purchase or by conquest.
+
+——Chief Justice John Marshall
+
+<br>
+
+The savage reibes of our Western frontier ought to be regarded as our natural enemies.
+
+——Alexander Hamilton
+
+<br>
+
+It was thanks to their military superiority, rather than to any social, moral, or natural advantage, that the white peoples of the world managed to create and control... the first global hegemony in history.
+
+——K. N. Parker
+
+<br>
+
+The most ultimately righteous of all wars is a war with savages.
+
+——President George Herbert Walker Bush
+
+<br>
+
+The attempted transformation of the Indian by thewhite man and the chaos that has resulted are but the fruits of the white man's disobedience of a fundamental and spiritual law.
+
+"Civilization" has been thrust upon me since the days of the reservations, and it has not added one whit to my sense of justice, to my reverence for the rights of life, to my love for truth, honesty, and generosity, or to my faith in Wakan Tanka, God of the Lakotas.
+
+For, after all the great religions have been preached and expounded, or have been revealed by brilliant scholars, or have been written in fine books and embellished in fine language with finer covers, man - all man - is still confronted with the Great Mystery.
+
+——Chief Luther Standing Bear, Oglala Lakota
+
+<br>
+
+For what it is to die but to stand naked in the wind and to melt into the sun? And what is it to cease breathing, but to free the breath from its restless tides, that it may rise and expand and seek God unencumbered?
+
+Only when you drink from the river of silence shall you indeed sing.
+
+And when you have reached the mountain top, then you shall begin to climb.
+
+And when the earth shall claim your limbs, then shall you truly dance.
+
+——Kahlil Gibran

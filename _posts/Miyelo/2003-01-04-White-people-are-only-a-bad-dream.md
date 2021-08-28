@@ -1,12 +1,100 @@
 ---
 layout: post
-title: &#147;White People Are Only A 
-date: 2003-01-
+title: &#147;White People Are Only A Bad Dream...&#148;
+date: 2003-01-04
 categories: ["Miyelo"]
-characters: 
-tags: 
+characters: ["Mike Davis"]
+tags: ["English", "article", "article by others"]
 origin: ["Miyelo"]
-pov: 
+pov: ["Mike Davis"]
 description: 
 published: true
 ---
+
+(Written by Mike Davis)
+
+<br>
+
+The whirlwind! The whirlwind!
+
+The whirlwind! The whirlwind!
+
+——Ghost Dance chant
+
+<br>
+
+### The Searcher
+
+Mason Valley, Nevada: 1 January 1892. It is a bitterly cold, moonless evening. A recent blizzard has mantled the sagebrush steppe in knee-deep snow. A small party of men, nervous and half-frozen, are riding in file, followed by a wagon. Their solitary lantern bathes the ground ahead in pale yellow light. The faint marking of a trail eventually dissolves into a crisscrossing maze of cattle paths in the snow. They have no idea which direction to go. The riders and their horses are tired and disoriented. The wind is beginning to howl ominously, and each man fights a small knot of panic in his stomach.
+
+It is a bad night to be lost. In such conditions, cowboys stay indoors, shepherds abandon their flocks, posses give up pursuit, and outlaws freeze to death along lonely trails. But this party - three Paiutes and two white men - has a mission of unusual urgency. They are searching for a Messiah named Wovoka.
+
+After vainly following a dozen false trails and shouting repeatedly in the hope of hearing an answering cry, they try a desperate expedient. Using the frost-covered buckboard as a stationary point of reference, each man rides a short distance in a different direction. When they fail to find the trail, they move the wagon and start over again. Finally, the wagon driver heard sounds. A few hundred yards farther on, the party finds four small tule wikiups. In one of them, the Messiah is quietly waiting by his fire.
+
+The leader of the party is James Mooney, a self-taught linguist and anthropologist. He works for the Bureau of Ethnology, which has recently been moved from the U.S. Geological Survey to the Smithsonian Institution. His boss is the legendary John Wesley Powell, one-armed Civil War hero and explorer of the Grand Canyon. The Bureau's somber, eleventh-hour mission is to bear scientific witness to the extinction of Native America. The nation's most eminent savants have written off the survival of most Indian cultures. Now Mooney and his colleagues are attempting to document as much as possible of these doomed lifeways before they are obliterated by white settlement and industrial progress.
+
+Mooney has the perfect melancholy temperament for his job. An Irish nationalist from Ohio, he finds a profound parallel between the decline of the American Indians and the tragedy of the Celts. Like the Kiowa and Cherokee, whose languages he speaks fluently, Mooney's own tribe, the Gaelic-speaking Irish, are human anachronisms in the age of steel cities, commodity exchange, and Hotchkiss guns. His Indian informants and friends - with stirring names like Standing Bear, Fire Thunder, American Horse, George Sword, Black Coyote, and Sitting Bull - detect a sensibility in Mooney deeper than his whiteness. Perhaps he has quoted to them, in their own language, the bitter epitaph of Irish patriot John Mitchell: "The very nation that I knew as Ireland is broken and destroyed; and the place that knew it shall know it no more." At any event, his empathy is compelling, and he has won admission to a world otherwise sealed to whites forever by massacres and broken promises. Vouchsafed by the honor of his famous friends, Mooney passes from tribe to tribe in a quest for information about a strange new religion. 
+
+Some weeks earlier, Mooney had been with the Lakota in South Dakota. Every doomed people dreams of a magical rebirth. In the misery of their reservations, the Lakota, who only a decade earlier had been the most powerful horsemen on the continent, embraced a ceremony of renewal known as the "Ghost Dance." With the speed of hope, this prophecy of a world restored had spread from the wikiup in Mason Valley to every corner of indigenous America. Like a great bellows, it awoke the dying fires of Indian spiritual self-confidence and resistance.
+
+Mooney would later see a resonance of Indian millenarianism in a Hibernian context. The Irish version of the Ghost Dance - no less fabulous and utopian - was the Celtic Revival of the 1890s, which, following the successive defeats of the Fenians, Davitt and then Parnell, sought to rebuild an Irish nation on the foundation of its forgotten culture. Its prophets and medicine men were named Yeats, Synge, Hyde, and Pearse. (And for those willing to make the conceptual journey, there really was an earlier point of contact between the Lakota and the Irish in the astonishing prairie rebellion of the Métis mystic and utopian socialist Louis Riel. He counted both Sitting Bull and the Irish Republican Brotherhood as allies in his struggle against English Canada.)
+
+The Irish awakening eventually produced a small republic on a divided island. The Lakota, however, immediately paid a terrible price for their dreaming: 146 refugees from Pine Ridge, including 44 women and 18 children, were blown apart on the frozen banks of Wounded Knee Creek by the big explosive rounds of the army's new Hotchkiss guns. (Some of the survivors, grotesquely, were then paraded across Europe by Buffalo Bill's Wild West Show.) Mooney, in between ethnographic errands for the World's Columbian Exposition in Chicago, is assembling the first comprehensive account of the massacre, which the U.S. government still falsely characterizes as an "uprising."
+
+Later, in the preface to his *The Ghost Dance Religion and the Sioux Outbreak of 1890*, published in 1896, he will note that he has traveled an astounding 32,000 miles in twenty-two months (1890-92) and spent time with twenty tribes. His painstakingly detailed account of the new religion's avowal of love and nonviolence, contrasted with photographs of slain Lakota women and children lying in heaps on the prairie, will morally impeach his own employer, the federal government, for dishonesty and murder. It will also ensure his own ostracism in official circles.
+
+Wounded Knee happened on 29 December 1890. Almost exactly a year later, Mooney is sitting by a sagebrush fire with Wovoka.
+
+<br>
+
+### The Messiah
+
+Wovoka - the name means "the Man with the Axe" - is thirty-five years old. He is, ironically, the son of Tavibo, or "White Man," and when he was four he witnessed the famous battle of Pyramid Lake. White silver miners had kidnapped several Paiute women, and when their husbands rescued them, it was considered "an Indian outrage," although none of the miners was harmed. A large posse of whites was sent to destroy the Indian camp, but they were ambushed by the Paiutes in a narrow pass. With bows and arrows alone, Wovoka's band killed nearly fifty miners and forced the rest to flee in terror. Undefeated on the battlefield, the Paiute nonetheless lost their freedom to the inexorable expansion of the white mining and cattle frontiers. Thus, following the death of his father, Wovoka was indentured to a local rancher named David Wilson. Although he refuses to learn English or move into a house, he is now called "Jack Wilson" by the whites and is well regarded as a reliable and hardworking ranchhand. He will spend his entire life tending cattle and sheep in Mason Valley.
+
+Like other great prophets from Moses to Joseph Smith, his revelation occurred on a mountain. One day in late 1888 or early 1889, he was cutting wood for David Wilson when the sky began to darken. Looking up, he saw the "sun dying" (an eclipse), followed by a great clamor in the trees. Laying down his axe, he ran in the direction of the tumult. He instantly "died" or passed into unconsciousness. Then, as he explains to Mooney, he "was taken up to the other world."
+
+*Here he saw God, with all the people who had hied long ago engaged in their old-time sports and occupations, all happy and forever young. It was a pleasant land full of game. After showing him all, God told him he must go back and tell his people they must be good and love one another, and have no quarreling, and live in peace with the whites.... they must put away all the old practices that savored of war; that if they faithfully obeyed his instructions they would at last be reunited with their friends in this other world, where there would be no death or sickness or old age [or by implication, whites]...*
+
+As a gift to the Indian people, God gave him a sacred dance. Performed at intervals, for five days at a time, the dance would beautify the performers and hasten the advent of the new time. Wovoka was also given powers to predict and control the weather. Mooney would later interview a former Indian agent at Walker Lake who claimed that Wovoka "had once requested him to draw up and forward to the President [Grover Cleveland] a statement of his supernatural claims, with a proposition that if he could receive a small regular stipend he would take up his residence on the reservation and agree to keep Nevada people informed of all of the latest news from heaven and to furnish rain whenever wanted." The agent, chuckling to himself while pretending to take Wovoka seriously, never forwarded the letter as promised.
+
+Local whites, including those who knew and liked "Jack Wilson," patronizingly interpreted the revelation as little more than a hysterical reaction to the unexpected solar eclipse. To the Paiutes, on the other hand, it was a long-awaited sign. The first Ghost Dance took place on the Walker Lake reservation in January 1889. It produced a spiritual earthquake half a continent in diameter. Soon, every native people of the Great Basin - the Wahoo, Ute, Shoshone, Bannock, and Gosiute - had heard that "Christ" himself was at Walker Lake, teaching the Paiute a sacred dance that would restore the world of their fathers. These tribes spread the good news to their neighbors, who in turn passed it on to their neighbors. Delegations quickly arrived at Walker Lake from reservations in California, Utah, Idaho, Montana, and eventually Oklahoma, Nebraska, Iowa, and South Dakota. Within two years, nearly forty nations had enter Wovoka's holy circle. Only the Navajo, whose religion proscribes all mention of the dead, were immune to the resurrectionist fervor that swept the native West from the Pacific to the Mississippi.
+
+Against scores of conflicting oral or secondhand accounts of Wovoka's teaching, there is an actual letter - published by Mooney - which the prophet dictated to an Arapaho delegate in the party of Black Short Nose in 1891. The young Arapaho wrote down Wovoka in "Carlisle English," which was then transcribed into proper English by Black Short Nose's schoolgirl daughter back in Oklahoma. As Mooney emphasizes, "it is the genuine official statement of the Ghost-dance doctrine as given by the Messiah himself to his disciples." It is also a model of spiritual concision.
+
+*Do not tell the white people about this. Jesus is now upon the earth. He appears like a cloud. The dead are all alive again. I do not know when they will be here; maybe this fall or in the spring. When the time comes there will be no more sickness and everyone will be young again.*
+
+*Do not refuse to work for the whites and do not make any trouble with them until you leave them. When the earth shakes - at the coming of the new world - do not be afraid. It will not hurt you.*
+
+*I want you to dance every six weeks. Make a feast at the dance and have food that everybody may eat. Then bathe in the water. That is all. You will receive good words again from me some time. Do not tell lies.*
+
+As Mooney reminded the readers of his report, the moral code preached by Wovoka is "as pure and comprehensive in its simplicity as anything found in religious systems from the days of Gautama Buddha to the time of Jesus Christ." Indeed, Mooney argues, the Ghost Dance is the New Testament, or at least its spiritual core, in distinctively Indian garb, To a divided and defeated people, Wovoka preaches unity, love, and the hope of renewal. "Only those who have known the deadly hatred that once animated Ute, Cheyenne, and Pawnee, one toward another, and are able to contract it with their present spirit of mutual brotherly love can know what the Ghost-dance religion has accomplished... It is such a revolution as comes but once in the life of a race."
+
+To further illustrate the human meaning of the Ghost Dance, Mooney cites the example of an Arapaho friend who has just lost his small son. "I shall not shoot any ponies, and my wife will not gash her arms. We used to do this when our friends died, because we thought we would never see them again, and it made us feel bad. But now we know we shall all be united again." As to the ceremony itself, especially the hypnotic role of dance, Mooney cautions his white readers to consider how some of their own religious practices might look to strangers. "In a country which produces magnetic healers, shakers, trance mediums, and the like, all these things make very easily be paralleled without going far from home."
+
+<br>
+
+### The Miracle
+
+On the centenary of Mooney's conversation with Wovoka, January 1991, I visited Walker Lake, Nevada. I had little in mind other than a simple desire to view the prophet's grave and the living conditions of his great-great-grandchildren. Initially I had no luck finding the headstone, so I sought advice from a young Paiute man in his early twenties. He was sitting in his red Ford Ranger pickup, drinking a cup of coffee and listening to Ice-T rapping, "Fuck the police..." He turned down the volume on his cassette player and gave me directions with a smile. Then he turned up Ice-T again.
+
+On Wovoka's modest grave I found an abalone shell containing an eagle feather and several 30-30 shells. There were also some flowers, recently left. It was obvious that this was more than commemoration. The Ghost Dance religion did not die at Wounded Knee, and Wovoka remains a living presence to many Native Americans: his spiritual legacy is dynamic and still undergoing elaboration.
+
+Mooney had expressed wonderment at the diverse ways in which Wovoka's message had been assimilated in tits fundamentals while being reworked in its details to fit the individual visions and specific histories of each Indian culture. The Arapaho, for example, believed that the restored world would advance behind a wall of fire that would drive the whites back to Europe, while the Lakota, more embittered, had a vision of white civilization buried alive by earthquakes and landslides, with the survivors transformed into small fishes in the river. The Cheyenne preferred a native version of the Rapture, with Indian peoples ascending through the clouds to a beautiful hunting ground, while the Shoshone foresaw a paradise where Indians and whites would dwell together in peace. In almost every version, however, the actual spiritual passageway to the new earth was the deep sleep induced by the Ghost Dance, which lasted for four days. Upon awakening, the First People would realize that the whites had simply been a bad dream.
+
+The year after visiting Wovoka's grave, I had the opportunity to discuss his legacy with some of the Paiute and Shoshone activists who were sponsoring the "Global Healing" demonstrations at the Nevada Nuclear Test Site. With the nuclearized desert as a dramatic backdrop, they emphasized that while the immediate millenarian expectations of their great-grandparents (like the early Christians) had been frustrated, Wovoka's vision of a unified Indian people resuming stewardship of the West after white civilization has been destroyed by a cataclysm of its own making is more compelling than ever. Sweeping the horizon with his finger, one of them challenged me: "Do you really think all this can last?" His gesture was meant to encompass not only the Test Site, but all the chief monuments to the past century's work of conquest: the dams, casinos, instant suburbs, bombing ranges, prisons, theme parks, toxic dumps, trophy homes, and trailer parks.
+
+The latterday Paiute and Shoshone, of course, themselves live in electrified homes, drive pickup trucks, send their kids to college, and lobby members of the Congress - but they do so with a keen awareness of the radical instability of this artificial world and its neon landscapes. It is a catastrophe to which they have painfully adjusted, which has tranformed the outward trappings of their lives, but which they continue to resist inwardly. The essence of the Ghost Dance is, perhaps, precisely the moral stamina to outlast this great mirage.
+
+<br>
+
+### The Prophecy
+
+It is interesting to speculate what Frederick Jackson Turner was doing the day that Mooney met with Wovoka. As he sat down to New Year's Eve dinner with his family in front of a warm hearth, was he already ruminating over the famous speech that he would give two years later at the World's Columbian Exposition in Chicago? What had been his reaction to the lurid newspaper accounts of the recent Sioux uprising in South Dakota? Did he know who Wovoka was? Or Mooney?
+
+I had never visited Turner's grave, so I don't know if anyone has placed fresh flowers there recently, much less seashells, eagle feathers, and Winchester cartridges. Yet his somber cult continues to endure. Historians have marched by his tomb for four generations now, and rare is the article or monograph, even in this postmodernist era, that doesn't doff its cap to the boss. True, there are other major traditions in the historiography of the West, most notably Bolton's school of comparative frontier studies and Innes's historical geographies of the staple trades. Enough intermarriage, moreover, has occurred within the field to produce revisionists who are still American exceptionalists and Turnerians who study cities and commodity circuits. But virtually everyone working in the field - whether their theoretical genealogy begins in Berkeley, Toronto, Madison, or even Paris, and whether they mourn with the victims or gloat with the victors - accepts the evolutionary pathway from frontier to region, from colonial periphery to Sunbelt. Virtually by definition, they acknowledge a certain stable core of regional identity and historical continuity.
+
+Everyone, that is, except the heirs to Wovoka. They reject the *telos* of the finished product, the conquered landscape, the linear historical narrative, the managed ecosystem. They see a chaos more ontological than the boom-and-bust cycle. They know the supposedly "permanent" structures of tradition and meaning in the white West seldom endure more than a single generation before they are overthrown and replaced. Like a certain German philosopher, they are all too aware that "all that is solid melts into air," including our most dearly held conceptions of the West as a region.
+
+Wovoka, in other words, sustains his great-great-grandchildren with an apocalyptic vision of the history of the American West. Since "apocalypse" is such an over-used and cheapened term, it is important to recall its precise meaning in the Abrahamic religions. An apocalypse is literally the revelation of the Secret History of the world as becomes possible under the terrible clarity of the Last Days. It is the alternate, despised history of the subaltern classes, the defeated peoples, the extinct cultures. I am claiming, in other words, that Wovoka offers us a neo-catastrophist epistemology for reinterpreting Western history from the standpoint of certain terminal features of the approaching millennial landscape. He invites us to reopen that history from the vantage point of an already visible future when sprawl, garbage, addiction, violence, and simulation will have overwhelmed every vital lifespace west of the Rockies. This is Turnerian history, if you will, stripped down to its ultimate paranoia: the West becomes Los Angeles.
+
+For those who retain the Ghost Dance tradition, this end point is also paradoxically the point of renewal and restoration. It is through this black hole that the West will disappear into the singularity of catastrophe, only to reemerge, on the other side, with streams full of salmon and plains black with bison.
