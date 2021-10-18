@@ -8,7 +8,7 @@ tags: ["article", "English", "article by others"]
 origin: ["Miyelo"]
 pov: ["James Mooney"]
 description: 
-published: false
+published: true
 ---
 
 (Written by James Mooney)
