@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "&#147;White People Are Only A Bad Dream...&#148;"
+title: "&#147;White People Are Only A Bad Dream...&#148;" (article)
 date: 2003-01-04
 categories: ["Miyelo"]
 characters: ["Mike Davis"]

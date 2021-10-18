@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ghosts Dance and Miyelo Plates
+title: Ghosts Dance and Miyelo Plates (song)
 date: 2003-01-03
 categories: ["Miyelo"]
 characters: 
