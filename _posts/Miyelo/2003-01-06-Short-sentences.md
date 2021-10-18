@@ -110,3 +110,65 @@ And when you have reached the mountain top, then you shall begin to climb.
 And when the earth shall claim your limbs, then shall you truly dance.
 
 ——Kahlil Gibran
+
+<br>
+
+Here one can neither stand nor lie nor sit
+
+There is not even silence in the mountains
+
+But dry sterile thunder without rain
+
+There is not even solitude in the mountains
+
+But red sullen faces sneer and snarl
+
+From doors of mudcracked houses
+
+——T. S. Eliot
+
+<br>
+
+None but the dead are permitted to speak truth.
+
+——Mark Twain
+
+<br>
+
+The public is not unaware of what is happening, though with the success of the policies of isolation and breakdown of organizational structure, the response if erratic and self-destructive: faith in ridiculous billionaire saviors, myths of past innocence and noble leaders, religious and jingoistic fanaticism, conspiracy cults, unfocused skepticism and disillusionament - a mixture that has not had happy consequences in the past.
+
+——Noam Chomsky
+
+<br>
+
+Indian history reveals that the United States and its predecessor British colonies have wrought great harm in the world. We must not forget this - not to wallow in our wrongdoing, but to understand and to learn, that we might not wreak harm again. We must temper our national pride with critical self-knowledge.
+
+——James W. Loewen
+
+<br>
+
+When I reduce civilization to its lowest terms, it becomes a system of life based upon trade. The dollar is the measure of value, and might still spells right; otherwise, why war?
+
+Yet even in deep jungles God's own sunlight penetrates, and I stand before my own people still as an advocate of civilization. Why? First, because there is no chance for our former simple way of life anymore; and second, because I realize that the white man's religion is not responsible for his mistakes. There is every evidence that God has given him all the light necessary by which to live in peace and good-will with his brother; and we also know that many brilliant civilizations have collapsed in physical and moral decadence. It is for us to avoid that fate if we can.
+
+I am an Indian; and while II have learned much from civilization, for which I am grateful, I have never lost my Indian sense of right and justice. I am for development and progress along social and spiritual lines, rather than those of commerce, nationalism, or material efficiency. Nevertheless, so long as I live, I am an American.
+
+——Ohiyesa (Charles Alexander Eastman, M.D.), Yankton Nakota
+
+<br>
+
+For what is it to die but to stand naked in the wind and to melt into the sun?
+
+And what is it to cease breathing, but to free the breath from its restless tides.
+
+that is may rise and expand and seek God unexcumbered?
+
+<br>
+
+Only when you drink from the river of silence shall you indeed sing.
+
+And when you have reached the mountain top, then you shall begin to climb.
+
+And when the earth shall claim your limbs, then shall you truly dance.
+
+——Kahlil Gibran
