@@ -4,7 +4,7 @@ title: The boy who cried wolf is (poem)
 date: 1998-01-23
 categories: ["Recent Forgeries"]
 characters: 
-tags: ["English", "poem", "no title"]
+tags: ["English", "poem", "untitled"]
 origin: ["Recent Forgeries"]
 pov: 
 description: 
