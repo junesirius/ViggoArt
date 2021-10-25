@@ -1,10 +1,10 @@
 ---
 layout: post
-title: The Traveller (extract)
+title: The Traveller (quotes)
 date: 2008-01-03
 categories: ["Skovbo"]
 characters: ["Robert Creeley"]
-tags: ["English", "poem", "extract"]
+tags: ["English", "poem", "quotes"]
 origin: ["Skovbo"]
 pov: 
 description: 
