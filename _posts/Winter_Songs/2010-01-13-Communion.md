@@ -4,8 +4,8 @@ title: Communion (article)
 date: 2010-01-13
 categories: ["Winter Songs"]
 characters: 
-tags: ["article", "Spanish", "English"]
-origin: ["Winter Songs"]
+tags: ["article", "Spanish", "English", "Communion"]
+origin: ["Coincidence of Memory"]
 pov: 
 description: 
 published: true
