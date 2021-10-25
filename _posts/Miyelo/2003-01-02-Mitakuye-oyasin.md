@@ -3,7 +3,7 @@ layout: post
 title: Mitakuye Oyasin (article)
 date: 2003-01-02
 categories: ["Miyelo"]
-characters: ['Clement "Sonny" Richards']
+characters: ['Clement &quot;Sonny&quot; Richards']
 tags: ["English", "article", "article by others"]
 origin: ["Miyelo"]
 pov: ['Clement "Sonny" Richards']
