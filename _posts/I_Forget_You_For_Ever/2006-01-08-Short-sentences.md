@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 
-date: 2006-01-0
+title: Sentences and Quotes in 'I Forget You For Ever'
+date: 2006-01-08
 categories: ["I Forget You For Ever"]
 characters: 
 tags: ["quotes", "English", "sentences", "Spanish"]
