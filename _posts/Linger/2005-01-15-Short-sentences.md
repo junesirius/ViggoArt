@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Quotes and short sentences in "Linger"
-date: 2005-01-0
+date: 2005-01-15
 categories: ["Linger"]
-characters: ["Goethe", "Black Elk", "Rumi", "James Joyce"]
+characters: ["Goethe", "Black Elk", "Rumi", "James Joyce", "Gyrðir Elíasson"]
 tags: ["quotes", "English", "German", "sentences", "self-translation", "Spanish", "I see you", "Julio"]
 origin: ["Linger"]
 pov: 
@@ -70,3 +70,39 @@ Don't be bitter.
 You drew a moon,
 
 and now you miss the day.
+
+<br>
+
+... I feel that people are like trees that move, trees that have lost their roots and are always in search of the soil.
+
+——Gyrðir Elíasson
+
+<br>
+
+Can you join, ask sincerely for affection
+
+without sweaty hand of expectation,
+
+understanding and accepting
+
+if it never is given?
+
+<br>
+
+Que te dejen seguir soñando, y que te perdonen
+
+el haberte caido sin fijarte por donde salía tu alma.
+
+Supiste vivir, y nadie te contó que no sería para siempre.
+
+Sigo acá, de momento, hasta cuando sea.
+
+(Self-translation:)
+
+That they let you continue dreaming, and that they
+
+forgive you for having fallen without noticing where your soul came out.
+
+You knew how to live, and nobody told you that it wouldn't be forever.
+
+I'm still here, for now, until whenever.
