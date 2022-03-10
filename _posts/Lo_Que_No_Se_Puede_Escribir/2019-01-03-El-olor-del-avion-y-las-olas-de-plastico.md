@@ -121,7 +121,7 @@ nos turnamos: hoy me toca esperarte
 
 entre ríos, sin raíces sanas
 
-mientras avanzás me absorben los procesos de descomposición
+mientras avanzas me absorben los procesos de descomposición
 
 de árboles remeados, marcados a cuchillo y clavo
 
@@ -133,7 +133,7 @@ esas flores imposibles que ocultan la muerte
 
 levanto la mirada y veo a la vieja
 
-que cruza la avenida como un cienpiés
+que cruza la avenida como un ciempiés
 
 abandonado por su debilidad y falta de apetito
 
