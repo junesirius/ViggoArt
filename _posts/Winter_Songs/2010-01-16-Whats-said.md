@@ -1,10 +1,10 @@
 ---
 layout: post
 title: What's Said (article)
-date: 2010-01-16
+date: 2010-01-16 00:01
 categories: ["Winter Songs"]
 characters: 
-tags: ["article", "Spanish", "English"]
+tags: ["article", "English", "What's Said"]
 origin: ["Winter Songs"]
 pov: 
 description: 

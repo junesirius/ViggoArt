@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Communion (article)
-date: 2010-01-13
-categories: ["Winter Songs"]
+date: 2010-01-13 00:01
+categories: ["Winter Songs", "Coincidence of Memory"]
 characters: 
-tags: ["article", "Spanish", "English", "Communion"]
+tags: ["article", "English", "Communion"]
 origin: ["Coincidence of Memory"]
 pov: 
 description: 

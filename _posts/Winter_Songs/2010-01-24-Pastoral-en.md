@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Pastoral (article)
-date: 2010-01-24
+title: Pastoral (article, English)
+date: 2010-01-24 00:01
 categories: ["Winter Songs"]
 characters: 
-tags: ["article", "Spanish", "English"]
+tags: ["article", "English", "Pastoral"]
 origin: ["Winter Songs"]
 pov: 
 description: 

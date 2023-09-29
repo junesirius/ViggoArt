@@ -4,7 +4,7 @@ title: Otoño Catalán (poem)
 date: 1998-01-11
 categories: ["Recent Forgeries"]
 characters: 
-tags: ["Spanish", "poem"]
+tags: ["Spanish", "poem", "Catalonian Autumn"]
 origin: ["Recent Forgeries"]
 pov: 
 description: 

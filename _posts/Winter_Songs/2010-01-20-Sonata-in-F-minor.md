@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Sonata in F Minor, Opus 6, by Scriabin (article)
-date: 2010-01-20
+date: 2010-01-20 00:01
 categories: ["Winter Songs"]
 characters: ["Sabina Spielrein"]
-tags: ["article", "Spanish", "English"]
+tags: ["article", "English", "Sonata in F Minor"]
 origin: ["Winter Songs"]
 pov: 
 description: 

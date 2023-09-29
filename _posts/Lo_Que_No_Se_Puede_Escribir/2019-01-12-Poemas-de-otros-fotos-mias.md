@@ -263,7 +263,7 @@ se fueron solas
 
 o acompañadas
 
-vistiendo rpoa rara
+vistiendo ropa rara
 
 me dieron besos
 

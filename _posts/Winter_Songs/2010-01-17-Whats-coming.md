@@ -1,10 +1,10 @@
 ---
 layout: post
 title: What's Coming (poem)
-date: 2010-01-17
+date: 2010-01-17 00:01
 categories: ["Winter Songs"]
 characters: 
-tags: ["poem", "Spanish", "English"]
+tags: ["poem", "English", "What's Coming"]
 origin: ["Winter Songs"]
 pov: 
 description: 
